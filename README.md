@@ -14,27 +14,27 @@
 • [Documentation](docs.thatom.tk) \
 • [Plugins](plugins.thatom.tk) \
 • [Discussion](https://github.com/Pronner/Thatom/discussions) \
-• Discord Server (Currently unavailable) \
+• Discord Server (Currently unavailable)
 
 ## Developers
 
 • [Issues](https://github.com/Pronner/Thatom/issues) \
 • StackOverflow (Coming soon) \
-• Reddit (Coming soon) \
+• Reddit (Coming soon)
 
 ## Donation
 
 We currently accept **cash only**.
 
 • [Ko-fi](https://ko-fi.com/pronner) \
-• Patreon: (Coming soon) \
+• Patreon: (Coming soon)
 
 Unfortunately, we do not accept any other form of payments right now, we'll update you once we do.
 
 • Bitcoin: (Coming soon) \
 • Bitcoin Cash: (Coming Soon) \
 • Etherium: (Coming Soon) \
-• Doge Coin: (Coming Soon) \
+• Doge Coin: (Coming Soon)
 
 
 ## Contribution
