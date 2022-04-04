@@ -27,7 +27,7 @@
 We currently accept **cash only**.
 
 • [Ko-fi](https://ko-fi.com/pronner) \
-• Patreon: (Coming soon)
+• ~~Patreon: (Coming soon)~~
 
 > **Unfortunately, we do not accept any other form of payments right now, we'll update you once we do.**
 
