@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/825035749849038869/960531257681403904/ipiccy_image_6.png" /> \
+  <img src="https://media.discordapp.net/attachments/825035749849038869/960531257681403904/ipiccy_image_6.png" />
   \
   **A CSharp-written MCBE server software created for high performance, customizability and compatibility.** \
   <img src="https://img.shields.io/github/downloads/Pronner/Thatom/total?label=downloads%40allreleases&logo=github" />
