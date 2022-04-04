@@ -43,5 +43,5 @@ Want to contribute or make changes? Fork the repository, modify it and add chang
 
 ## Licensing of Thatom
 
-Thatom is currently licensed with [LGPL-2.1](https://https://github.com/Pronner/Thatom/blob/main/LICENSE). <br />
+Thatom is currently licensed with [LGPL-2.1](https://github.com/Pronner/Thatom/blob/main/LICENSE). <br />
 Thatom is in **no way** affiliated with **Mojang/Microsoft** nor approved/associated with them. **Trademarks, Licenses and assets go to their respective owners**.
