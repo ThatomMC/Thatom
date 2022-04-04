@@ -11,37 +11,38 @@
 
 ## Getting Started with Thatom
 
-• [Documentation](docs.thatom.tk)
-• [Plugins](plugins.thatom.tk)
-• [Discussion](https://github.com/Pronner/Thatom/discussions)
-• Discord Server (Currently unavailable)
+• [Documentation](docs.thatom.tk) \
+• [Plugins](plugins.thatom.tk) \
+• [Discussion](https://github.com/Pronner/Thatom/discussions) \
+• Discord Server (Currently unavailable) \
 
 ## Developers
 
-• [Issues](https://github.com/Pronner/Thatom/issues)
-• StackOverflow (Coming soon)
-• Reddit (Coming soon)
+• [Issues](https://github.com/Pronner/Thatom/issues) \
+• StackOverflow (Coming soon) \
+• Reddit (Coming soon) \
 
 ## Donation
 
 We currently accept **cash only**.
 
-• [Ko-fi](https://ko-fi.com/pronner)
-• Patreon: (Coming soon)
+• [Ko-fi](https://ko-fi.com/pronner) \
+• Patreon: (Coming soon) \
 
 Unfortunately, we do not accept any other form of payments right now, we'll update you once we do.
 
-• Bitcoin: (Coming soon)
-• Bitcoin Cash: (Coming Soon)
-• Etherium: (Coming Soon)
-• Doge Coin: (Coming Soon)
+• Bitcoin: (Coming soon) \
+• Bitcoin Cash: (Coming Soon) \
+• Etherium: (Coming Soon) \
+• Doge Coin: (Coming Soon) \
 
 
 ## Contribution
 
+Want to contribute or make changes? Fork the repository, modify it and add changes you think would help Thatom and then send in a **pull request**!
 
 ## Licensing of Thatom
 
-Thatom is currently licensed with [LGPL-2.1](https://https://github.com/Pronner/Thatom/blob/main/LICENSE).
+Thatom is currently licensed with [LGPL-2.1](https://https://github.com/Pronner/Thatom/blob/main/LICENSE). \
 
 Thatom is in **no way** affiliated with Mojang/Microsoft nor approved/associated with them. Trademarks, Licenses and assets go to their respective owners.
